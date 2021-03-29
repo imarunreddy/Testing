@@ -11,6 +11,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("i had started")
+        
         // Do any additional setup after loading the view.
     }
 
