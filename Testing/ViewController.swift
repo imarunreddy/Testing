@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("i had started")
+       print("trying with github desktop")
         
         // Do any additional setup after loading the view.
     }
